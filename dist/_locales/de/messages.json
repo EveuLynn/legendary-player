@@ -1,0 +1,138 @@
+{
+  "appName": {
+      "message": "PopLab"
+  },
+  "appShortName": {
+      "message": "PopLab"
+  },
+  "appDescription": {
+      "message": "Wissen vorbereiten, organisieren und teilen"
+  },
+  "browserActionTitle": {
+      "message": "PopLab"
+  },
+  "se_deconnecter": {
+      "message": "Abmelden"
+  },
+  "voir_frigo": {
+      "message": "Zu meinem Freezer"
+  },
+  "envoyer_lien": {
+      "message": "Diesen Link in meinen Freezer schicken"
+  },
+  "envoyer_image": {
+      "message": "Dieses Bild in meinen Freezer schicken"
+  },
+  "envoyer_video": {
+      "message": "Dieses Video in meinen Freezer schicken"
+  },
+  "se_connecter": {
+      "message": "Anmelden"
+  },
+  "bonjour": {
+      "message": "Hallo $1!"
+  },
+  "choix_capture_page": {
+      "message": "Einfaches Lesezeichen für die Webadresse"
+  },
+  "capture_page": {
+    "message": "Erfassen eines Lesezeichens"
+  },
+  "capture_selection": {
+    "message": "Erfassen von Inhalten durch Auswahl"
+  },
+  "capture_zone": {
+    "message": "Erfassen eines Bereichs des Bildschirms als Bild"
+},
+  "capture_video": {
+    "message": "Ein Youtube-Video aufnehmen"
+  },
+  "lien_signet": {
+    "message": "Link zum Lesezeichen"
+  },
+  "dest_signet": {
+    "message": "Zielordner"
+  },
+  "media_visuel": {
+    "message": "Visuelle Medien"
+  },
+  "change_capture_option": {
+    "message": "< Ändern der Erfassungsoption"
+  },
+  "select_image": {
+    "message": "Auswählen eines Bildes",
+    "description": " Titre du bouton pour sélectionner un élément de la page à scrapper"
+  },
+  "capturer": {
+    "message": "ERFASSEN!"
+  },
+  "choix_capture_contenu": {
+      "message": "Erfassen von Inhalten durch Auswahl"
+  },
+  "choix_capture_zone": {
+      "message": "Erfassen einer Kerbe in einem Bild"
+  },
+  "choix_capture_video": {
+      "message": "Ein Youtube-Video aufnehmen"
+  },
+  "cible_capture": {
+      "message": "Was wollen Sie in den Freezer schicken?"
+  },
+  "demarrer_capture": {
+      "message": "BITTE FREEZEN"
+  },
+  "capture_element": {
+      "message": "Element gefreezt"
+  },
+  "reglages": {
+    "message": "Einstellungen"
+  },
+  "plus-vite": {
+    "message": "Schneller fahren"
+},
+  "recapture_element": {
+      "message": "Neu freezen"
+  },
+  "changer_option_capture": {
+      "message": "Freeze-Einstellungen ändern"
+  },
+  "titre_futur_element": {
+      "message": "Titel des neuen Elements "
+  },
+  "desc_futur_element": {
+      "message": "Beschreibung "
+  },
+  "bouton_capturer": {
+      "message": "FREEZE!"
+  },
+  "confirmation_frigo1": {
+      "message": "Super, Sie haben es geschafft! "
+  },
+  "confirmation_frigo2": {
+      "message": "Das Element ist nun im Freezer."
+  },
+  "aller_frigo": {
+      "message": "Gehen Sie in den Freezer"
+  },
+  "selectionner": {
+      "message": "Auswahl"
+  },
+  "erreur_reseau": {
+      "message": "Netzwerkfehler. Bitte überprüfen Sie Ihre Internetverbindung."
+  },
+  "erreur_identifiants": {
+      "message": "Anmeldefehler. Bitte prüfen Sie Ihre Anmeldedaten."
+  },
+  "erreur_taille_element": {
+      "message": "Dieses Element ist zu groß, um es zu freezen. Versuchen Sie, es in mehreren Abschnitten zu freezen."
+  },
+  "fenetre_trop_petite": {
+      "message": "Zu kleines Fenster, um ein Element zu freezen!"
+  },
+  "erreur_webclipper_non_autorise": {
+      "message": "Votre environnement ou votre statut ne permet pas l'utilisation du Webclipper. Veuillez changer de statut ou bien vous connecter via un autre compte."
+  },
+  "utilisateur_mysterieux": {
+      "message": "utilisateur mystérieux"
+  }
+}

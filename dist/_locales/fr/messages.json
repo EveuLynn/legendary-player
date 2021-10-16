@@ -1,0 +1,180 @@
+{
+  "appName": {
+      "message": "PopLab",
+      "description": "Le nom de l'application"
+  },
+  "appShortName": {
+      "message": "PopLab",
+      "description": "Le nom court (12 caractères maximum recommandés) est une version abrégée du nom de l'application."
+  },
+  "appDescription": {
+      "message": "Préparer, organiser et partager le savoir",
+      "description": "La description de l'application"
+  },
+  "browserActionTitle": {
+      "message": "PopLab",
+      "description": "Le titre du bouton d'action du navigateur pour l'extension"
+  },
+  "se_deconnecter": {
+      "message": "Se déconnecter",
+      "description": "Le titre du bouton de déconnexion à l'extension"
+  },
+  "voir_frigo": {
+      "message": "Voir mon frigo",
+      "description": "Le titre du bouton pour visiter le Frigo"
+  },
+  "envoyer_lien": {
+      "message": "Envoyer ce lien dans mon Frigo",
+      "description": "Le titre du bouton pour envoyer un lien dans le Frigo"
+  },
+  "envoyer_image": {
+      "message": "Envoyer cette image dans mon Frigo",
+      "description": "Le titre du bouton pour envoyer une image dans le Frigo"
+  },
+  "envoyer_video": {
+      "message": "Envoyer cette vidéo dans mon Frigo",
+      "description": "Le titre du bouton pour envoyer une vidéo dans le Frigo"
+  },
+  "se_connecter": {
+      "message": "Connexion",
+      "description": "Le titre du bouton pour initier connexion"
+  },
+  "bonjour": {
+      "message": "Bonjour $1 !",
+      "description": "Message de bienvenue à l'utilisateur"
+  },
+  "cible_capture": {
+      "message": "Que souhaitez-vous mettre au frigo ?",
+      "description": "Le titre de de la zone de choix de la zone de capture"
+  },
+  "choix_capture_page": {
+      "message": "Simple signet de l'adresse web",
+      "description": "L'utilisateur choisit de capturer une page entière"
+  },
+  "capture_page": {
+      "message": "Capturez un signet",
+      "description": "Le titre de la page de capture par signet"
+  },
+  "capture_selection": {
+      "message": "Capturez du contenu par sélection",
+      "description": "Le titre de la page de capture par sélection"
+  },
+  "capture_zone": {
+      "message": "Capturez une zone d'écran en image",
+      "description": "Le titre de la page de capture par zone"
+  },
+  "capture_video": {
+      "message": "Capturez une vidéo youtube",
+      "description": "Le titre de la page de capture par zone"
+  },
+  "lien_signet": {
+      "message": "Lien vers le signet",
+      "description": "Le titre de du champ pour l'url du signet"
+  },
+  "dest_signet": {
+      "message": "Dossier de destination",
+      "description": "Le titre de du champ pour le dossier de destination du signet"
+  },
+  "media_visuel": {
+      "message": "Média visuel",
+      "description": "Le titre de du champ pour le dossier de destination du signet"
+  },
+  "change_capture_option": {
+      "message": "< Changer d'option de capture",
+      "description": "Titre du bouton pour changer l'option de capture"
+  },
+  "select_image": {
+      "message": "Sélectionner une image",
+      "description": " Titre du bouton pour sélectionner un élément de la page à scrapper"
+  },
+  "capturer": {
+    "message": "CAPTUREZ !",
+    "description": "Le titre du bouton pour capturer le contenu sélectionné"
+  },
+  "choix_capture_contenu": {
+      "message": "Capturer du contenu par sélection",
+      "description": "L'utilisateur choisit de capturer une zone de la page"
+  },
+  "choix_capture_zone": {
+      "message": "Capturer une zone d'écran en image",
+      "description": "L'utilisateur choisit de capturer une image sur la page"
+  },
+  "choix_capture_video": {
+      "message": "Capturer une vidéo Youtube",
+      "description": "L'utilisateur choisit de capturer une vidéo sur la page"
+  },
+  "demarrer_capture": {
+      "message": "DÉMARRER LA CAPTURE",
+      "description": "Le titre du bouton pour pour démarrer la capture"
+  },
+  "capture_element": {
+      "message": "Élément capturé",
+      "description": "Message de confirmation de capture"
+  },
+  "reglages": {
+      "message": "Réglages",
+      "description": "Le titre principal de la vue des options de configuration"
+  },
+  "plus_vite": {
+      "message": "Pour aller plus vite",
+      "description": "Le titre secondaire de la vue des options de configuration"
+  },
+  "recapture_element": {
+      "message": "Recapturer",
+      "description": "Le titre du bouton pour relancer la capture"
+  },
+  "changer_option_capture": {
+      "message": "Changer d'option de capture",
+      "description": "Le titre du bouton pour retourner à la sélection de la méthode de capture"
+  },
+  "titre_futur_element": {
+      "message": "Titre du futur élément ",
+      "description": "Titre par défaut de l'élément capturé que l'utilisateur peut modifier"
+  },
+  "desc_futur_element": {
+      "message": "Description du futur élément ",
+      "description": "Description par défaut de l'élément capturé que l'utilisateur peut modifier"
+  },
+  "bouton_capturer": {
+      "message": "CAPTURER !",
+      "description": "Le titre du bouton pour envoyer la capture dans le Frigo de l'utilisateur"
+  },
+  "confirmation_frigo1": {
+      "message": "Bravo, c'est fait ! ",
+      "description": "Message de confirmation de transfert dans le Frigo"
+  },
+  "confirmation_frigo2": {
+      "message": "On l'a mis dans le frigo.",
+      "description": "Suite du message de confirmation de transfert dans le Frigo"
+  },
+  "aller_frigo": {
+      "message": "Allez dans votre frigo",
+      "description": "Le titre du bouton pour aller visiter le Frigo"
+  },
+  "selectionner": {
+      "message": "Sélectionner",
+      "description": "Le titre du bouton pour sélectionner un texte et modifier le titre ou la description"
+  },
+  "erreur_reseau": {
+      "message": "Erreur réseau. Vérifiez votre connexion internet.",
+      "description": "Message d'erreur de connexion"
+  },
+  "erreur_identifiants": {
+      "message": "Erreur de connexion. Vérifiez vos identifiants.",
+      "description": "Message d'erreur d'identifiants'"
+  },
+  "erreur_taille_element": {
+      "message": "Cet élément est trop grand pour être capturé. Essayez de le capturer en plusieurs parties.",
+      "description": "Message d'erreur indiquant que l'élément est trop grand pour être capturé"
+  },
+  "fenetre_trop_petite": {
+      "message": "Fenêtre trop petite pour capturer un élément !",
+      "description": "Message d'erreur indiquant que la zone de capture a une hauteur insuffisante"
+  },
+  "erreur_webclipper_non_autorise": {
+      "message": "Votre environnement ou votre statut ne permet pas l'utilisation du Webclipper. Veuillez changer de statut ou bien vous connecter via un autre compte."
+  },
+  "utilisateur_mysterieux": {
+      "message": "utilisateur mystérieux"
+  }
+}

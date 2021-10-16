@@ -1,0 +1,54 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_appName__",
+  "version": "2.1.0",
+  "homepage_url": "https://poplab.education/",
+  "description": "Poplab Vuejs",
+  "default_locale": "fr",
+  "permissions": [
+    "contextMenus",
+    "notifications",
+    "identity",
+    "activeTab",
+    "<all_urls>",
+    "*://*/*",
+    "storage"
+  ],
+  "icons": {
+    "48": "icons/icon-48.png",
+    "64": "icons/icon-64.png",
+    "128": "icons/icon-128.png"
+  },
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ]
+  },
+  "oauth2": {
+    "client_id": "poplab-front",
+    "scopes": [
+      "https://id.preprod-its.poplab.education/auth/"
+    ]
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "__MSG_appName__",
+    "default_icon": {
+      "48": "icons/icon-48.png",
+      "64": "icons/icon-64.png"
+    }
+  },
+  "web_accessible_resources": [
+    "assets/images/add.png",
+    "assets/images/capture.png",
+    "assets/images/done.png",
+    "assets/images/icon-email.svg",
+    "assets/images/icon-password.svg",
+    "assets/images/logo.svg",
+    "assets/images/PopLab-baseline-black.svg",
+    "assets/images/PopLab-baseline-black-de.svg",
+    "assets/images/selector.png",
+    "scripts/browser-polyfill.min.js.map"
+  ],
+  "content_security_policy": "script-src 'self' ; object-src 'self'"
+}
